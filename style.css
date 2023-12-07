@@ -31,7 +31,7 @@ p {
 p {
     margin-top: 200px;
 } */
-h1 {
+/* h1 {
     position: fixed;
     top: 0px; 
     left: 0px;
@@ -46,4 +46,63 @@ P {
     top: 70px;
     left: 70px;
     z-index: 9;
+} */
+/* FLOATING ELEMENTS */
+/* blockquote{
+    width: 275px;
+    font-size: 130%;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px 0px 10px 10px;
+    padding: 10px;
+    border-top: 1px solid blue;
+    border-bottom: 1px solid blue;
+    float: right;
+} */
+/* Place Elemets side by side */
+/* body {
+    
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+}
+    p {
+    width: 200px;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    background-color: #efefef;
+}
+#container {
+    width: 70%;
+    border: 1px solid red;
+height: 200px ;
+padding: 200px;
+} */
+/* Floats */
+/* img {
+    height: 200px;
+    width: 250px;
+    float: right;
+}
+p {
+    clear: right;
+} */
+.column1of2 {
+    float: left;
+    width: 620px;
+    margin: 10px;
+    border: 2px solid black;
+
+}
+    .column2of2 {
+    float: left;
+    width: 300px;
+    margin: 10px;
+border: 1px solid black;
+}
+.column2of3 {
+    float: left;
+    width: 300px;
+    margin: 10px;
+border: 1px solid black;
 }
